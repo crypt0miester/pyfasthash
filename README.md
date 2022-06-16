@@ -4,6 +4,8 @@
 
 It provides several common hash algorithms with C/C++ implementation for performance and compatibility.
 
+Fixed erthink error not being able to be fetched and changed to a new git repo.
+
 ```python
 >>> import pyhash
 >>> hasher = pyhash.fnv1_32()
